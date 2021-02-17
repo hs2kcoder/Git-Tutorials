@@ -1,1 +1,1 @@
-utility function of my version 3.
+utility function of my version 5.
